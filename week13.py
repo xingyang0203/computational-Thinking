@@ -1,0 +1,9 @@
+project_title="對話機器人"
+name_list=["廖挺均","黃鑫凱","陳霆維","郭星暘","張宗啓","李世杰"]
+number_list=["A109260024","A109260006","A109260014","A109260016","A109260032","A109260066"]
+duty_list=["撰寫程式","構思對話內容","操作並報告"]
+load_list=["20%","15%","15%","15%","15%","15%"]
+print(name_list[3])
+print(number_list[3])
+print(duty_list[0:2])
+print(load_list[3])
